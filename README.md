@@ -5,7 +5,7 @@
 
 ## Overview and Origin
 
-* Name of company
+* Name of company:
 Betterment
 
 * When was the company incorporated?
@@ -15,10 +15,7 @@ the company was founded in 2008 and launched in 2010
 Jon Stein, Sean Owen, Eli Broverman, Ryan O'Sullivan
 
 * How did the idea for the company (or project) come about?
-The idea for the app came from Jon Stein wanting for an easier way to innvest his money or more so wanting something to automate his trading
-at one point he had 7 different trading platforms and realized how big of a role his emotions played in his trading and wanted something that 
-would simplify investing for himself and everyone else.
-
+The idea for the app came from Jon Stein he wanted to make something that would make investing his money easier. Jon wanted something that could automate his trading he wanted to remove emotion from trading. Jon had realised how much of an effect emotion has in trading and believes that just leads to worse descions in his opinion. Before making this he himself was on seven different trading platforms which was when he realized how complicated they all are and dont make things any easier for people. 
 
 * How much funding have they received?
 Betterment raised 275 million in funding over their past 7 funding rounds, however their first funding round was for 3 million.
@@ -28,9 +25,10 @@ Betterment raised 275 million in funding over their past 7 funding rounds, howev
 ## Business Activities:
 * What specific financial problem is the company or project trying to solve?
 help manage peoples financial lives "We tell you how much to invest and manage your money for you, all throughout your life, in a way that gives
- you better outcomes. We do it all so that you don’t have to"
+ you better outcomes. We do it all so that you don't have to"
 
 * Who is the company's intended customer? Everyone they a free robo advisor app they only charge 0.25% for accounts under $100,000 those which exceed that are charged 0.40%
+they also have a very easy user interface that is very begginer friendly and doesnt look overweling for the not finance savy people.
 
 ## Landscape:
 
@@ -49,7 +47,7 @@ just to list a few while there are still more to explore.
 ## Results
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-"Based on our estimation, using Betterment’s retirement recommendations could earn you 38.8% more after-tax money in retirement compared to investing on your own"
+"Based on our estimation, using Betterment's retirement recommendations could earn you 38.8% more after-tax money in retirement compared to investing on your own"
 
 
 ## Recommendations
